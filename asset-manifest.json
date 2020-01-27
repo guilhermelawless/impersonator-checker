@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/impersonator-checker/static/css/main.d1b05096.chunk.css",
+    "main.js": "/impersonator-checker/static/js/main.90416d07.chunk.js",
+    "main.js.map": "/impersonator-checker/static/js/main.90416d07.chunk.js.map",
+    "runtime-main.js": "/impersonator-checker/static/js/runtime-main.9e56f947.js",
+    "runtime-main.js.map": "/impersonator-checker/static/js/runtime-main.9e56f947.js.map",
+    "static/js/2.86ff57d9.chunk.js": "/impersonator-checker/static/js/2.86ff57d9.chunk.js",
+    "static/js/2.86ff57d9.chunk.js.map": "/impersonator-checker/static/js/2.86ff57d9.chunk.js.map",
+    "index.html": "/impersonator-checker/index.html",
+    "precache-manifest.e7e3b7e0baf7fe21eeb504ba6bae865f.js": "/impersonator-checker/precache-manifest.e7e3b7e0baf7fe21eeb504ba6bae865f.js",
+    "service-worker.js": "/impersonator-checker/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/impersonator-checker/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.86ff57d9.chunk.js.LICENSE": "/impersonator-checker/static/js/2.86ff57d9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e56f947.js",
+    "static/js/2.86ff57d9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.90416d07.chunk.js"
+  ]
+}
